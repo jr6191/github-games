@@ -4,6 +4,6 @@ A project based learning activity for peopleCAMBIO DESDE MAIN who are getting st
 
 You can play the game at: https://githubschool.github.io/github-games/
 
->> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
+>> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_ ESTA ES LA LINEA DEL CONFLICTO
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
