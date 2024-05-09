@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games - Omar Vásquez
 
-A project based learning activity for peopleCAMBIO DESDE FEATUREA who are getting started CAMBIO DESDE DEVwith Git and GitHub.
+A project based learning activity for peopleCAMBIO DESDE who are getting started with Git and GitHub.
 
 You can play the game at: https://githubschool.github.io/github-games/
 
